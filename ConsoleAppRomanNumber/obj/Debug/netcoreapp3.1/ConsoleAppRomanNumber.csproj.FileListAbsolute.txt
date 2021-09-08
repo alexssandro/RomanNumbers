@@ -1,0 +1,14 @@
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\bin\Debug\netcoreapp3.1\ConsoleAppRomanNumber.exe
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\bin\Debug\netcoreapp3.1\ConsoleAppRomanNumber.deps.json
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\bin\Debug\netcoreapp3.1\ConsoleAppRomanNumber.runtimeconfig.json
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\bin\Debug\netcoreapp3.1\ConsoleAppRomanNumber.runtimeconfig.dev.json
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\bin\Debug\netcoreapp3.1\ConsoleAppRomanNumber.dll
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\bin\Debug\netcoreapp3.1\ConsoleAppRomanNumber.pdb
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\obj\Debug\netcoreapp3.1\ConsoleAppRomanNumber.csproj.AssemblyReference.cache
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\obj\Debug\netcoreapp3.1\ConsoleAppRomanNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\obj\Debug\netcoreapp3.1\ConsoleAppRomanNumber.AssemblyInfoInputs.cache
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\obj\Debug\netcoreapp3.1\ConsoleAppRomanNumber.AssemblyInfo.cs
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\obj\Debug\netcoreapp3.1\ConsoleAppRomanNumber.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\obj\Debug\netcoreapp3.1\ConsoleAppRomanNumber.dll
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\obj\Debug\netcoreapp3.1\ConsoleAppRomanNumber.pdb
+C:\Users\alexs\source\repos\ConsoleAppRomanNumber\ConsoleAppRomanNumber\obj\Debug\netcoreapp3.1\ConsoleAppRomanNumber.genruntimeconfig.cache
